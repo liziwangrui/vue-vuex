@@ -1,7 +1,7 @@
 {
   "name": "vue-demo",
   "description": "vuejs学习练手demo",
-  "author": "hugzh",
+  "author": "wr",
   "scripts": {
     "order": "webpack-dev-server --config order/webpack.config.js --content-base order --inline --hot --port 8888",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
